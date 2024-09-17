@@ -1,0 +1,10 @@
+.Ellipse1 {
+    z-index: 1;
+    
+}
+
+#NAVBAR { 
+    position: fixed;
+    display: inline;
+    right: 500px;
+}
