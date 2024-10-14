@@ -1,0 +1,260 @@
+.DICAS-DE-CULTURAIS {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.DICAS-DE-CULTURAIS .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1603px;
+  position: relative;
+}
+
+.DICAS-DE-CULTURAIS .HEADER {
+  position: absolute;
+  width: 1464px;
+  height: 185px;
+  top: -3px;
+  left: -14px;
+  background-color: transparent;
+}
+
+.DICAS-DE-CULTURAIS .overlap-group {
+  position: relative;
+  width: 1456px;
+  height: 185px;
+  background-color: #332b6c;
+}
+
+.DICAS-DE-CULTURAIS .DICAS-ENTRETERIMENTO {
+  width: 176px;
+  left: 830px;
+  white-space: nowrap;
+  position: absolute;
+  top: 82px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DICAS-DE-CULTURAIS .DICAS-LUGARES {
+  width: 205px;
+  left: 1026px;
+  position: absolute;
+  top: 82px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DICAS-DE-CULTURAIS .QUME-SOU {
+  position: absolute;
+  width: 141px;
+  top: 82px;
+  left: 1243px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DICAS-DE-CULTURAIS .CLAUDICAS-MENU {
+  position: absolute;
+  width: 414px;
+  top: 34px;
+  left: 62px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DICAS-DE-CULTURAIS .QUEM-SOU-EU {
+  position: absolute;
+  width: 1449px;
+  height: 192px;
+  top: 248px;
+  left: 0;
+}
+
+.DICAS-DE-CULTURAIS .overlap {
+  position: relative;
+  width: 1445px;
+  height: 192px;
+  background-color: #ffed0040;
+}
+
+.DICAS-DE-CULTURAIS .text-wrapper {
+  position: absolute;
+  width: 747px;
+  top: 13px;
+  left: 368px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DICAS-DE-CULTURAIS .p {
+  position: absolute;
+  width: 1397px;
+  top: 128px;
+  left: 48px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DICAS-DE-CULTURAIS .BLOG {
+  position: absolute;
+  width: 1365px;
+  height: 328px;
+  top: 525px;
+  left: 33px;
+}
+
+.DICAS-DE-CULTURAIS .overlap-group-wrapper {
+  top: 90px;
+  left: 934px;
+  position: absolute;
+  width: 431px;
+  height: 231px;
+}
+
+.DICAS-DE-CULTURAIS .overlap-group-2 {
+  position: relative;
+  width: 429px;
+  height: 231px;
+}
+
+.DICAS-DE-CULTURAIS .rectangle {
+  height: 91px;
+  top: 140px;
+  background-color: #332b6c;
+  position: absolute;
+  width: 429px;
+  left: 0;
+}
+
+.DICAS-DE-CULTURAIS .precisamos-falar {
+  position: absolute;
+  width: 422px;
+  top: 159px;
+  left: 3px;
+  font-family: "Merge One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DICAS-DE-CULTURAIS .img {
+  height: 148px;
+  top: 0;
+  position: absolute;
+  width: 429px;
+  left: 0;
+}
+
+.DICAS-DE-CULTURAIS .overlap-wrapper {
+  top: 90px;
+  left: 467px;
+  position: absolute;
+  width: 431px;
+  height: 231px;
+}
+
+.DICAS-DE-CULTURAIS .rectangle-2 {
+  height: 90px;
+  top: 141px;
+  background-color: #332b6c;
+  position: absolute;
+  width: 429px;
+  left: 0;
+}
+
+.DICAS-DE-CULTURAIS .text-wrapper-2 {
+  position: absolute;
+  width: 422px;
+  top: 162px;
+  left: 3px;
+  font-family: "Merge One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DICAS-DE-CULTURAIS .rectangle-3 {
+  height: 148px;
+  top: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 429px;
+  left: 0;
+}
+
+.DICAS-DE-CULTURAIS .overlap-2 {
+  position: absolute;
+  width: 431px;
+  height: 328px;
+  top: 0;
+  left: 0;
+}
+
+.DICAS-DE-CULTURAIS .div-wrapper {
+  top: 97px;
+  left: 0;
+  position: absolute;
+  width: 431px;
+  height: 231px;
+}
+
+.DICAS-DE-CULTURAIS .rectangle-4 {
+  position: absolute;
+  width: 429px;
+  height: 83px;
+  top: 141px;
+  left: 0;
+  background-color: #332b6c;
+}
+
+.DICAS-DE-CULTURAIS .CULTURAL {
+  position: absolute;
+  width: 429px;
+  top: 0;
+  left: 0;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}

@@ -1,0 +1,241 @@
+.QUEM-SOU {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.QUEM-SOU .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1990px;
+  position: relative;
+}
+
+.QUEM-SOU .HEADER {
+  position: absolute;
+  width: 1464px;
+  height: 185px;
+  top: -3px;
+  left: -14px;
+  background-color: transparent;
+}
+
+.QUEM-SOU .overlap-group {
+  position: relative;
+  width: 1456px;
+  height: 185px;
+  background-color: #332b6c;
+}
+
+.QUEM-SOU .DICAS-ENTRETERIMENTO {
+  width: 176px;
+  left: 830px;
+  white-space: nowrap;
+  position: absolute;
+  top: 82px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.QUEM-SOU .DICAS-LUGARES {
+  width: 205px;
+  left: 1026px;
+  position: absolute;
+  top: 82px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.QUEM-SOU .QUME-SOU {
+  position: absolute;
+  width: 141px;
+  top: 82px;
+  left: 1243px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.QUEM-SOU .CLAUDICAS-MENU {
+  position: absolute;
+  width: 414px;
+  top: 34px;
+  left: 62px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.QUEM-SOU .QUEM-SOU-EU {
+  position: absolute;
+  width: 1449px;
+  height: 192px;
+  top: 248px;
+  left: 0;
+}
+
+.QUEM-SOU .overlap {
+  position: relative;
+  width: 1445px;
+  height: 192px;
+  background-color: #ffed0040;
+}
+
+.QUEM-SOU .text-wrapper {
+  position: absolute;
+  width: 747px;
+  top: 13px;
+  left: 340px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.QUEM-SOU .p {
+  position: absolute;
+  width: 580px;
+  top: 128px;
+  left: 424px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.QUEM-SOU .encontrei-na-jun-o {
+  position: absolute;
+  width: 870px;
+  height: 258px;
+  top: 505px;
+  left: 490px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.QUEM-SOU .text-wrapper-2 {
+  position: absolute;
+  width: 877px;
+  top: 790px;
+  left: 490px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.QUEM-SOU .overlap-2 {
+  position: absolute;
+  width: 1366px;
+  height: 557px;
+  top: 1035px;
+  left: 35px;
+}
+
+.QUEM-SOU .mais-do-que {
+  position: absolute;
+  width: 685px;
+  top: 6px;
+  left: 0;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.QUEM-SOU .rectangle {
+  position: absolute;
+  width: 688px;
+  height: 545px;
+  top: 0;
+  left: 678px;
+}
+
+.QUEM-SOU .img {
+  position: absolute;
+  width: 452px;
+  height: 496px;
+  top: 499px;
+  left: 17px;
+  object-fit: cover;
+}
+
+.QUEM-SOU .SIGA-NAS-REDES {
+  position: absolute;
+  width: 379px;
+  height: 176px;
+  top: 1647px;
+  left: 35px;
+}
+
+.QUEM-SOU .siga-nas-redes {
+  position: absolute;
+  width: 377px;
+  top: 0;
+  left: 0;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.QUEM-SOU .rectangle-2 {
+  position: absolute;
+  width: 95px;
+  height: 95px;
+  top: 82px;
+  left: 0;
+  object-fit: cover;
+}
+
+.QUEM-SOU .rectangle-3 {
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  top: 95px;
+  left: 175px;
+  object-fit: cover;
+}
+
+.QUEM-SOU .rectangle-4 {
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  top: 95px;
+  left: 95px;
+  object-fit: cover;
+}

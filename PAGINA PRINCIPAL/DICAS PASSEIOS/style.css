@@ -1,0 +1,284 @@
+.DICAS-DE-PASSEIOS {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.DICAS-DE-PASSEIOS .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1603px;
+  position: relative;
+}
+
+.DICAS-DE-PASSEIOS .HEADER {
+  position: absolute;
+  width: 1464px;
+  height: 185px;
+  top: -3px;
+  left: -14px;
+  background-color: transparent;
+}
+
+.DICAS-DE-PASSEIOS .overlap-group {
+  position: relative;
+  width: 1456px;
+  height: 185px;
+  background-color: #332b6c;
+}
+
+.DICAS-DE-PASSEIOS .DICAS-ENTRETERIMENTO {
+  width: 176px;
+  left: 830px;
+  white-space: nowrap;
+  position: absolute;
+  top: 82px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DICAS-DE-PASSEIOS .DICAS-LUGARES {
+  width: 205px;
+  left: 1026px;
+  position: absolute;
+  top: 82px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DICAS-DE-PASSEIOS .QUME-SOU {
+  position: absolute;
+  width: 141px;
+  top: 82px;
+  left: 1243px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DICAS-DE-PASSEIOS .CLAUDICAS-MENU {
+  position: absolute;
+  width: 414px;
+  top: 34px;
+  left: 62px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DICAS-DE-PASSEIOS .QUEM-SOU-EU {
+  position: absolute;
+  width: 1449px;
+  height: 192px;
+  top: 248px;
+  left: 0;
+}
+
+.DICAS-DE-PASSEIOS .overlap {
+  position: relative;
+  width: 1445px;
+  height: 192px;
+  background-color: #ffed0040;
+}
+
+.DICAS-DE-PASSEIOS .text-wrapper {
+  position: absolute;
+  width: 747px;
+  top: 13px;
+  left: 368px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DICAS-DE-PASSEIOS .p {
+  position: absolute;
+  width: 1397px;
+  top: 128px;
+  left: 48px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DICAS-DE-PASSEIOS .BLOG {
+  position: absolute;
+  width: 1347px;
+  height: 306px;
+  top: 531px;
+  left: 33px;
+}
+
+.DICAS-DE-PASSEIOS .BLOG-2 {
+  width: 431px;
+  height: 231px;
+  top: 75px;
+  left: 916px;
+  position: absolute;
+}
+
+.DICAS-DE-PASSEIOS .top-melhores-wrapper {
+  position: absolute;
+  width: 429px;
+  height: 83px;
+  top: 148px;
+  left: 0;
+  background-color: #332b6c;
+}
+
+.DICAS-DE-PASSEIOS .top-melhores {
+  position: absolute;
+  width: 422px;
+  top: 14px;
+  left: 7px;
+  font-family: "Merge One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DICAS-DE-PASSEIOS .rectangle {
+  height: 148px;
+  top: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 429px;
+  left: 0;
+}
+
+.DICAS-DE-PASSEIOS .overlap-wrapper {
+  width: 431px;
+  height: 230px;
+  top: 76px;
+  left: 458px;
+  position: absolute;
+}
+
+.DICAS-DE-PASSEIOS .overlap-2 {
+  position: relative;
+  width: 429px;
+  height: 230px;
+}
+
+.DICAS-DE-PASSEIOS .rectangle-2 {
+  height: 89px;
+  top: 141px;
+  background-color: #332b6c;
+  position: absolute;
+  width: 429px;
+  left: 0;
+}
+
+.DICAS-DE-PASSEIOS .barn-lodge-caf-a {
+  position: absolute;
+  width: 422px;
+  top: 160px;
+  left: 3px;
+  font-family: "Merge One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DICAS-DE-PASSEIOS .img {
+  height: 149px;
+  top: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 429px;
+  left: 0;
+}
+
+.DICAS-DE-PASSEIOS .overlap-3 {
+  position: absolute;
+  width: 431px;
+  height: 306px;
+  top: 0;
+  left: 0;
+}
+
+.DICAS-DE-PASSEIOS .BLOG-3 {
+  width: 428px;
+  height: 230px;
+  top: 76px;
+  left: 3px;
+  position: absolute;
+}
+
+.DICAS-DE-PASSEIOS .div-wrapper {
+  position: absolute;
+  width: 426px;
+  height: 83px;
+  top: 147px;
+  left: 0;
+  background-color: #332b6c;
+}
+
+.DICAS-DE-PASSEIOS .text-wrapper-2 {
+  position: absolute;
+  width: 422px;
+  top: 14px;
+  left: 4px;
+  font-family: "Merge One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DICAS-DE-PASSEIOS .rectangle-3 {
+  position: absolute;
+  width: 426px;
+  height: 147px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.DICAS-DE-PASSEIOS .NOVIDADES-NO-BLOG {
+  position: absolute;
+  width: 429px;
+  top: 0;
+  left: 0;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}

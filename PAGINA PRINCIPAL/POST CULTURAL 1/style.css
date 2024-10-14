@@ -1,0 +1,428 @@
+.POST-CULTURAL {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.POST-CULTURAL .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 4534px;
+  position: relative;
+}
+
+.POST-CULTURAL .HEADER {
+  position: absolute;
+  width: 1464px;
+  height: 185px;
+  top: -3px;
+  left: -14px;
+  background-color: transparent;
+}
+
+.POST-CULTURAL .overlap-group {
+  position: relative;
+  width: 1456px;
+  height: 185px;
+  background-color: #332b6c;
+}
+
+.POST-CULTURAL .DICAS-ENTRETERIMENTO {
+  width: 176px;
+  left: 830px;
+  white-space: nowrap;
+  position: absolute;
+  top: 82px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.POST-CULTURAL .DICAS-LUGARES {
+  width: 205px;
+  left: 1026px;
+  position: absolute;
+  top: 82px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.POST-CULTURAL .QUME-SOU {
+  position: absolute;
+  width: 141px;
+  top: 82px;
+  left: 1243px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.POST-CULTURAL .CLAUDICAS-MENU {
+  position: absolute;
+  width: 414px;
+  top: 34px;
+  left: 62px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.POST-CULTURAL .CULTURAL {
+  position: absolute;
+  width: 1449px;
+  height: 192px;
+  top: 248px;
+  left: 0;
+}
+
+.POST-CULTURAL .overlap {
+  position: relative;
+  width: 1445px;
+  height: 192px;
+  background-color: #ffed0040;
+}
+
+.POST-CULTURAL .text-wrapper {
+  position: absolute;
+  width: 747px;
+  top: 13px;
+  left: 368px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.POST-CULTURAL .p {
+  position: absolute;
+  width: 1397px;
+  top: 128px;
+  left: 48px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.POST-CULTURAL .overlap-2 {
+  position: absolute;
+  width: 916px;
+  height: 450px;
+  top: 933px;
+  left: 75px;
+}
+
+.POST-CULTURAL .text-wrapper-2 {
+  position: absolute;
+  width: 763px;
+  top: 0;
+  left: 0;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.POST-CULTURAL .rectangle {
+  position: absolute;
+  width: 916px;
+  height: 370px;
+  top: 80px;
+  left: 0;
+}
+
+.POST-CULTURAL .TITLO {
+  position: absolute;
+  width: 642px;
+  height: 174px;
+  top: 488px;
+  left: 75px;
+}
+
+.POST-CULTURAL .t-TULO {
+  position: absolute;
+  width: 638px;
+  top: 0;
+  left: 0;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.POST-CULTURAL .ESCRITO-POR {
+  position: absolute;
+  width: 397px;
+  top: 133px;
+  left: 0;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.POST-CULTURAL .veja-mais-posts {
+  position: absolute;
+  width: 389px;
+  height: 620px;
+  top: 534px;
+  left: 1030px;
+}
+
+.POST-CULTURAL .overlap-3 {
+  position: relative;
+  width: 387px;
+  height: 620px;
+  background-color: #d9d9d95c;
+  border: 3px solid;
+  border-color: #332b6c;
+}
+
+.POST-CULTURAL .VEJA-MAIS-POST {
+  position: absolute;
+  width: 328px;
+  top: 12px;
+  left: 28px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.POST-CULTURAL .BLOG {
+  height: 188px;
+  top: 151px;
+  position: absolute;
+  width: 323px;
+  left: 33px;
+}
+
+.POST-CULTURAL .overlap-group-2 {
+  position: relative;
+  width: 321px;
+  height: 188px;
+}
+
+.POST-CULTURAL .rectangle-2 {
+  position: absolute;
+  width: 321px;
+  height: 83px;
+  top: 105px;
+  left: 0;
+  background-color: #332b6c;
+}
+
+.POST-CULTURAL .precisamos-falar {
+  position: absolute;
+  width: 316px;
+  top: 119px;
+  left: 2px;
+  font-family: "Merge One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.POST-CULTURAL .img {
+  position: absolute;
+  width: 321px;
+  height: 111px;
+  top: 0;
+  left: 0;
+}
+
+.POST-CULTURAL .overlap-wrapper {
+  height: 173px;
+  top: 404px;
+  position: absolute;
+  width: 323px;
+  left: 33px;
+}
+
+.POST-CULTURAL .overlap-4 {
+  position: relative;
+  width: 321px;
+  height: 173px;
+}
+
+.POST-CULTURAL .rectangle-3 {
+  position: absolute;
+  width: 321px;
+  height: 67px;
+  top: 106px;
+  left: 0;
+  background-color: #332b6c;
+}
+
+.POST-CULTURAL .dicas-de-como {
+  position: absolute;
+  width: 316px;
+  top: 121px;
+  left: 2px;
+  font-family: "Merge One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.POST-CULTURAL .rectangle-4 {
+  position: absolute;
+  width: 321px;
+  height: 111px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.POST-CULTURAL .rectangle-5 {
+  position: absolute;
+  width: 261px;
+  height: 6px;
+  top: 92px;
+  left: 60px;
+  background-color: #ffed00;
+}
+
+.POST-CULTURAL .o-studio-ghibli {
+  position: absolute;
+  width: 911px;
+  top: 699px;
+  left: 75px;
+  font-family: "Andika", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.POST-CULTURAL .span {
+  font-family: "Andika", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+}
+
+.POST-CULTURAL .text-wrapper-3 {
+  font-weight: 700;
+}
+
+.POST-CULTURAL .em-servi-o-de {
+  position: absolute;
+  width: 916px;
+  top: 1400px;
+  left: 75px;
+  font-family: "Andika", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.POST-CULTURAL .overlap-5 {
+  position: absolute;
+  width: 916px;
+  height: 450px;
+  top: 1754px;
+  left: 75px;
+}
+
+.POST-CULTURAL .meu-amigo-totoro-sem {
+  position: absolute;
+  width: 916px;
+  top: 2221px;
+  left: 75px;
+  font-family: "Andika", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.POST-CULTURAL .overlap-6 {
+  position: absolute;
+  width: 916px;
+  height: 450px;
+  top: 2605px;
+  left: 75px;
+}
+
+.POST-CULTURAL .overlap-7 {
+  position: absolute;
+  width: 916px;
+  height: 484px;
+  top: 3511px;
+  left: 75px;
+}
+
+.POST-CULTURAL .esses-tr-s-filmes-do {
+  position: absolute;
+  width: 916px;
+  top: 89px;
+  left: 0;
+  font-family: "Andika", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.POST-CULTURAL .diferente-das-obras {
+  position: absolute;
+  width: 916px;
+  top: 3072px;
+  left: 75px;
+  font-family: "Andika", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}

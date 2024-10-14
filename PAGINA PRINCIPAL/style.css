@@ -1,0 +1,430 @@
+.PAGINA-INICIAL {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.PAGINA-INICIAL .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1603px;
+  position: relative;
+}
+
+.PAGINA-INICIAL .overlap {
+  position: absolute;
+  width: 1467px;
+  height: 581px;
+  top: 0;
+  left: -3px;
+}
+
+.PAGINA-INICIAL .HEADER {
+  position: absolute;
+  width: 1464px;
+  height: 270px;
+  top: 0;
+  left: 3px;
+  background-color: transparent;
+}
+
+.PAGINA-INICIAL .overlap-group {
+  position: relative;
+  width: 1456px;
+  height: 270px;
+}
+
+.PAGINA-INICIAL .background-header {
+  position: absolute;
+  width: 1456px;
+  height: 185px;
+  top: 0;
+  left: 0;
+  background-color: #332b6c;
+}
+
+.PAGINA-INICIAL .DICAS-ENTRETERIMENTO {]
+  
+  width: 176px;
+  top: 82px;
+  left: 830px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PAGINA-INICIAL .DICAS-LUGARES {
+  width: 185px;
+  top: 80px;
+  left: 1022px;
+  position: absolute;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PAGINA-INICIAL .QUME-SOU {
+  position: absolute;
+  width: 141px;
+  top: 80px;
+  left: 1227px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PAGINA-INICIAL .CLAUDICAS {
+  position: absolute;
+  width: 429px;
+  top: 33px;
+  left: 61px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PAGINA-INICIAL .QUEM-SOU-EU {
+  position: absolute;
+  width: 1449px;
+  height: 334px;
+  top: 248px;
+  left: 0;
+}
+
+.PAGINA-INICIAL .overlap-2 {
+  position: relative;
+  width: 1445px;
+  height: 334px;
+  background-color: #ffed0040;
+}
+
+.PAGINA-INICIAL .text-wrapper {
+  position: absolute;
+  width: 491px;
+  top: 60px;
+  left: 445px;
+  font-family: "Just Another Hand", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PAGINA-INICIAL .uma-jovem-apaixonada {
+  position: absolute;
+  width: 814px;
+  top: 124px;
+  left: 449px;
+  font-family: "Merge One-Regular", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PAGINA-INICIAL .ellipse {
+  position: absolute;
+  width: 333px;
+  height: 333px;
+  top: 0;
+  left: 59px;
+  object-fit: cover;
+}
+
+.PAGINA-INICIAL .overlap-3 {
+  position: absolute;
+  width: 1362px;
+  height: 575px;
+  top: 684px;
+  left: 33px;
+}
+
+.PAGINA-INICIAL .NOVIDADES-NO-BLOG {
+  position: absolute;
+  width: 429px;
+  top: 0;
+  left: 0;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PAGINA-INICIAL .BLOG {
+  position: absolute;
+  width: 1362px;
+  height: 500px;
+  top: 76px;
+  left: 0;
+}
+
+.PAGINA-INICIAL .overlap-group-wrapper {
+  width: 428px;
+  height: 230px;
+  top: 1px;
+  left: 3px;
+  position: absolute;
+}
+
+.PAGINA-INICIAL .overlap-group-2 {
+  position: relative;
+  width: 426px;
+  height: 230px;
+}
+
+.PAGINA-INICIAL .rectangle {
+  position: absolute;
+  width: 426px;
+  height: 90px;
+  top: 140px;
+  left: 0;
+}
+
+.PAGINA-INICIAL .p {
+  position: absolute;
+  width: 422px;
+  top: 161px;
+  left: 4px;
+  font-family: "Merge One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PAGINA-INICIAL .img {
+  position: absolute;
+  width: 426px;
+  height: 147px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.PAGINA-INICIAL .overlap-wrapper {
+  width: 431px;
+  height: 231px;
+  top: 0;
+  left: 467px;
+  position: absolute;
+}
+
+.PAGINA-INICIAL .overlap-4 {
+  position: relative;
+  width: 429px;
+  height: 231px;
+}
+
+.PAGINA-INICIAL .rectangle-2 {
+  position: absolute;
+  width: 429px;
+  height: 83px;
+  top: 141px;
+  left: 0;
+  background-color: #332b6c;
+}
+
+.PAGINA-INICIAL .text-wrapper-2 {
+  position: absolute;
+  width: 422px;
+  top: 162px;
+  left: 3px;
+  font-family: "Merge One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PAGINA-INICIAL .rectangle-3 {
+  position: absolute;
+  width: 429px;
+  height: 148px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.PAGINA-INICIAL .div-wrapper {
+  width: 431px;
+  height: 228px;
+  top: 0;
+  left: 933px;
+  position: absolute;
+}
+
+.PAGINA-INICIAL .overlap-5 {
+  position: relative;
+  width: 429px;
+  height: 228px;
+}
+
+.PAGINA-INICIAL .rectangle-4 {
+  position: absolute;
+  width: 429px;
+  height: 83px;
+  top: 140px;
+  left: 0;
+  background-color: #332b6c;
+}
+
+.PAGINA-INICIAL .text-wrapper-3 {
+  position: absolute;
+  width: 422px;
+  top: 159px;
+  left: 3px;
+  font-family: "Merge One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PAGINA-INICIAL .BLOG-2 {
+  width: 431px;
+  height: 231px;
+  top: 269px;
+  left: 0;
+  position: absolute;
+}
+
+.PAGINA-INICIAL .top-melhores-wrapper {
+  position: absolute;
+  width: 429px;
+  height: 83px;
+  top: 148px;
+  left: 0;
+  background-color: #332b6c;
+}
+
+.PAGINA-INICIAL .top-melhores {
+  position: absolute;
+  width: 422px;
+  top: 14px;
+  left: 7px;
+  font-family: "Merge One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffed00;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PAGINA-INICIAL .BLOG-3 {
+  width: 431px;
+  height: 231px;
+  top: 269px;
+  left: 467px;
+  position: absolute;
+}
+
+.PAGINA-INICIAL .rectangle-5 {
+  position: absolute;
+  width: 429px;
+  height: 90px;
+  top: 141px;
+  left: 0;
+  background-color: #332b6c;
+}
+
+.PAGINA-INICIAL .BLOG-4 {
+  width: 431px;
+  height: 231px;
+  top: 269px;
+  left: 933px;
+  position: absolute;
+}
+
+.PAGINA-INICIAL .rectangle-6 {
+  position: absolute;
+  width: 429px;
+  height: 91px;
+  top: 140px;
+  left: 0;
+  background-color: #332b6c;
+}
+
+.PAGINA-INICIAL .rectangle-7 {
+  position: absolute;
+  width: 429px;
+  height: 148px;
+  top: 0;
+  left: 0;
+}
+
+.PAGINA-INICIAL .SIGA-NAS-REDES {
+  position: absolute;
+  width: 379px;
+  height: 176px;
+  top: 1294px;
+  left: 33px;
+}
+
+.PAGINA-INICIAL .siga-nas-redes {
+  position: absolute;
+  width: 377px;
+  top: 0;
+  left: 0;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #332b6c;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PAGINA-INICIAL .rectangle-8 {
+  position: absolute;
+  width: 95px;
+  height: 95px;
+  top: 82px;
+  left: 0;
+  object-fit: cover;
+}
+
+.PAGINA-INICIAL .rectangle-9 {
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  top: 95px;
+  left: 175px;
+  object-fit: cover;
+}
+
+.PAGINA-INICIAL .rectangle-10 {
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  top: 95px;
+  left: 95px;
+  object-fit: cover;
+}
