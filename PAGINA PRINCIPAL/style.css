@@ -46,17 +46,17 @@
   background-color: #332b6c;
 }
 
-.PAGINA-INICIAL .DICAS-ENTRETERIMENTO {]
+.PAGINA-INICIAL .DICAS-ENTRETERIMENTO {
   
   width: 176px;
-  top: 82px;
+  top: 80px;
   left: 830px;
   white-space: nowrap;
   position: absolute;
   font-family: "Itim", Helvetica;
   font-weight: 400;
   color: #ffed00;
-  font-size: 20px;
+  font-size: 30px;
   letter-spacing: 0;
   line-height: normal;
 }
@@ -82,7 +82,7 @@
   font-family: "Itim", Helvetica;
   font-weight: 400;
   color: #ffed00;
-  font-size: 20px;
+  font-size: 30px;
   letter-spacing: 0;
   line-height: normal;
 }
