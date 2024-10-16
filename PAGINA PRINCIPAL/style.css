@@ -9,7 +9,7 @@
 .PAGINA-INICIAL .div {
   background-color: #ffffff;
   overflow: hidden;
-  width: 1440px;
+  width: 1467px;
   height: 1603px;
   position: relative;
 }
@@ -239,6 +239,7 @@
   height: 231px;
 }
 
+
 .PAGINA-INICIAL .rectangle-2 {
   position: absolute;
   width: 429px;
@@ -359,10 +360,11 @@
 .PAGINA-INICIAL .BLOG-4 {
   width: 431px;
   height: 231px;
-  top: 269px;
+  top: 260px;
   left: 933px;
   position: absolute;
 }
+
 
 .PAGINA-INICIAL .rectangle-6 {
   position: absolute;
