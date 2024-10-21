@@ -36,14 +36,14 @@
 
 .DICAS-DE-CULTURAIS .DICAS-ENTRETERIMENTO {
   width: 176px;
+  top: 80px;
   left: 830px;
   white-space: nowrap;
   position: absolute;
-  top: 82px;
   font-family: "Itim", Helvetica;
   font-weight: 400;
   color: #ffed00;
-  font-size: 20px;
+  font-size: 30px;
   letter-spacing: 0;
   line-height: normal;
 }
@@ -64,12 +64,12 @@
 .DICAS-DE-CULTURAIS .QUME-SOU {
   position: absolute;
   width: 141px;
-  top: 82px;
-  left: 1243px;
+  top: 80px;
+  left: 1227px;
   font-family: "Itim", Helvetica;
   font-weight: 400;
   color: #ffed00;
-  font-size: 20px;
+  font-size: 30px;
   letter-spacing: 0;
   line-height: normal;
 }
