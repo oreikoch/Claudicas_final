@@ -1,3 +1,4 @@
+
 .PAGINA-INICIAL {
   background-color: #ffffff;
   display: flex;
@@ -17,7 +18,7 @@
 .PAGINA-INICIAL .overlap {
   position: absolute;
   width: 1467px;
-  height: 581px;
+  height: 100px;
   top: 0;
   left: -3px;
 }
@@ -25,7 +26,7 @@
 .PAGINA-INICIAL .HEADER {
   position: absolute;
   width: 1464px;
-  height: 270px;
+  height: 150px;
   top: 0;
   left: 3px;
   background-color: transparent;
@@ -34,20 +35,21 @@
 .PAGINA-INICIAL .overlap-group {
   position: relative;
   width: 1456px;
-  height: 270px;
+  height: 100px;
 }
 
 .PAGINA-INICIAL .background-header {
   position: absolute;
   width: 1456px;
-  height: 185px;
+  height: 150px;
   top: 0;
   left: 0;
   background-color: #332b6c;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
 }
 
 .PAGINA-INICIAL .DICAS-ENTRETERIMENTO {
-  
   width: 176px;
   top: 80px;
   left: 830px;
@@ -109,10 +111,12 @@
 }
 
 .PAGINA-INICIAL .overlap-2 {
-  position: relative;
+  position: absolute;
   width: 1445px;
-  height: 334px;
+  height: 380px;
+  top: -50px;
   background-color: #ffed0040;
+  border-radius: 50px;
 }
 
 .PAGINA-INICIAL .text-wrapper {
@@ -146,7 +150,7 @@
   position: absolute;
   width: 333px;
   height: 333px;
-  top: 0;
+  top: 25px;
   left: 59px;
   object-fit: cover;
 }
@@ -161,8 +165,8 @@
 
 .PAGINA-INICIAL .NOVIDADES-NO-BLOG {
   position: absolute;
-  width: 429px;
-  top: 0;
+  width: 450px;
+  top: -50px;
   left: 0;
   font-family: "Itim", Helvetica;
   font-weight: 400;
@@ -176,8 +180,9 @@
   position: absolute;
   width: 1362px;
   height: 500px;
-  top: 76px;
+  top: 30px;
   left: 0;
+
 }
 
 .PAGINA-INICIAL .overlap-group-wrapper {
@@ -203,8 +208,9 @@
   position: absolute;
   width: 426px;
   height: 90px;
-  top: 140px;
+  top: 135px;
   left: 0;
+  border-radius: 15px;
 }
 
 .PAGINA-INICIAL .p {
@@ -215,7 +221,7 @@
   font-family: "Merge One-Regular", Helvetica;
   font-weight: 400;
   color: #ffed00;
-  font-size: 22px;
+  font-size: 20px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -237,6 +243,7 @@
   left: 467px;
   position: absolute;
   opacity: 75%;
+  border-radius: 15px;
 }
 
 .overlap-wrapper:hover {
@@ -257,6 +264,7 @@
   top: 141px;
   left: 0;
   background-color: #332b6c;
+  border-radius: 15px;
 }
 
 .PAGINA-INICIAL .text-wrapper-2 {
@@ -267,7 +275,7 @@
   font-family: "Merge One-Regular", Helvetica;
   font-weight: 400;
   color: #ffed00;
-  font-size: 22px;
+  font-size: 20px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -280,6 +288,7 @@
   top: 0;
   left: 0;
   object-fit: cover;
+  
 }
 
 .PAGINA-INICIAL .div-wrapper {
@@ -308,17 +317,18 @@ opacity: 100%;
   top: 140px;
   left: 0;
   background-color: #332b6c;
+  border-radius: 15px;
 }
 
 .PAGINA-INICIAL .text-wrapper-3 {
   position: absolute;
   width: 422px;
-  top: 159px;
+  top: 162px;
   left: 3px;
   font-family: "Merge One-Regular", Helvetica;
   font-weight: 400;
   color: #ffed00;
-  font-size: 22px;
+  font-size: 20px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -340,21 +350,22 @@ opacity: 100%;
 .PAGINA-INICIAL .top-melhores-wrapper {
   position: absolute;
   width: 429px;
-  height: 83px;
-  top: 148px;
+  height: 90px;
+  top: 141px;
   left: 0;
   background-color: #332b6c;
+  border-radius: 15px;
 }
 
 .PAGINA-INICIAL .top-melhores {
   position: absolute;
   width: 422px;
-  top: 14px;
+  top: 20px;
   left: 7px;
   font-family: "Merge One-Regular", Helvetica;
   font-weight: 400;
   color: #ffed00;
-  font-size: 22px;
+  font-size: 20px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -381,6 +392,7 @@ opacity: 100%;
   top: 141px;
   left: 0;
   background-color: #332b6c;
+  border-radius: 15px;
 }
 
 .PAGINA-INICIAL .BLOG-4 {
@@ -400,10 +412,11 @@ opacity: 100%;
 .PAGINA-INICIAL .rectangle-6 {
   position: absolute;
   width: 429px;
-  height: 91px;
-  top: 140px;
+  height: 90px;
+  top: 141px;
   left: 0;
   background-color: #332b6c;
+  border-radius: 15px;
 }
 
 .PAGINA-INICIAL .rectangle-7 {
@@ -418,8 +431,8 @@ opacity: 100%;
   position: absolute;
   width: 379px;
   height: 176px;
-  top: 1294px;
-  left: 33px;
+  top: 580px;
+  left: 0px;
 }
 
 .PAGINA-INICIAL .siga-nas-redes {
